@@ -1,2 +1,2 @@
-Lab 07 Cosntruccion de Software
+Lab 07 Cosntruccion de Software  
 Autor:Adriel Arias Llerena
